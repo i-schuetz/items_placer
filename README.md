@@ -7,7 +7,10 @@ This is a little exercise I did to practice gesture recognizers, collection view
 
 We can drag and drop views from the bottom selector to top view. The views can be clicked to see more info. When view is dragged to invalid place it snaps back. Placed views can be removed by dragging back to the bottom.
 
+This can be useful for e.g. placing furniture in a room, dressing a person, etc.
+
 It needs refactoring, right now everything is in a view controller.
+
 
 
 ![ScreenShot](https://raw.github.com/i-schuetz/items_placer/master/sc1.png)
